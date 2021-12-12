@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">አንድሮይድ Crypto</string>
+    <string name="login">ግባ</string>
+    <string name="signout_btn">ዛግተ ውጣ</string>
+    <string name="signUp">መለያ ይፍጠሩ</string>
+    <string name="dashboard">ዳሽቦርድ</string>
+    <string name="trade_title">ንግድ</string>
+    <string name="title_dashboard">ዳሽቦርድ</string>
+    <string name="dashboard_title">ዳሽቦርድ</string>
+    <string name="wallet_btn">ቦርሳ</string>
+    <string name="password">ሚስጥራዊ ኮድ</string>
+    <string name="username">የተጠቃሚ ስም</string>
+    <string name="create_account">መለያ ይፍጠሩ</string>
+    <string name="buy_popup_btn">ግዛ</string>
+    <string name="sell_popup_btn">መሸጥ</string>
+    <string name="back_to_login">ወደ መግቢያ ተመለስ</string>
+    <string name="login_success">የመግባት ስኬት %1$s</string>
+    <string name="login_failure_generic">መግባት አልቻለም %1$s</string>
+    <string name="login_failure_wrong_credentials">የመግቢያ አለመሳካት የተሳሳቱ ምስክርነቶች</string>
+    <string name="login_failure_doesnt_exist">የመግባት አለመሳካት የለም።</string>
+    <string name="signup_success">የምዝገባ ስኬት</string>
+    <string name="crypto_name">ስም</string>
+    <string name="crypto_price">ዋጋ</string>
+    <string name="crypto_balance">ተቀማጭ ገንዘብ</string>
+    <string name="signup_failure_already_exists">ለዚህ ኢሜይል መለያ አስቀድሞ አለ!</string>
+    <string name="signup_failure_weak_password">የይለፍ ቃልዎ አነስተኛ መስፈርቶችን አያሟላም! ቢያንስ 6 ቃላት መሆን አለበት።</string>
+    <string name="signup_failure_generic">መመዝገብ አልተሳካም፦ %1$s</string>
+    <string name="signup_failure_invalid_format">ኦርጅናል ኢሜል ማቅረብ አለቦት!</string>
+    <string name="transaction_cancel">ሰርዝ</string>
+    <string name="inputted_amount">መጠን</string>
+    <string name="insufficient_balance">አልተሳካም፣ በቂ ያልሆነ ገንዘብ በ %1$s</string>
+    <string name="insufficient_amount">አልተሳካም፣ በቂ ያልሆነ መጠን በ %1$s</string>
+    <string name="you_did_not_own">ባለቤት አልነበርክም። %1$s</string>
+    <string name="buy_success">ስኬትን ይግዙ: %1$s</string>
+    <string name="sell_success">ስኬትን መሸጥ: %1$s</string>
+    <string name="insufficient_fund">አልተሳካም፣ በቂ ያልሆነ ገንዘብ በ: %1$s</string>
+    <string name="re_password">ሚስጥራዊ ቃል እንደገና አስገባ</string>
+    <string name="password_has_not_matched">የይለፍ ቃል አልተዛመደም!</string>
+    <string name="wallet_title">ቦርሳ</string>
+    <string name="cannot_trade_usd">ዶላር መገበያየት አይችሉም!</string>
+</resources>

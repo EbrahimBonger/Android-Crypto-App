@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">AndroidCrypto</string>
+    <string name="login">LogIn</string>
+    <string name="create_account">Create Account</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signout_btn">Sign Out</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="dashboard">Goto Dashboard</string>
+    <string name="wallet_btn">Goto Wallet</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="re_password">Re-Password</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_account">Account</string>
+    <string name="title_notifications">Notifications</string>
+
+<!--    transaction-->
+    <string name="buy_popup_btn">Buy</string>
+    <string name="sell_popup_btn">Sell</string>
+    <string name="transaction_cancel">Cancel</string>
+    <string name="inputted_amount">Amount</string>
+    <string name="buy_success">Buy Success: %1$s</string>
+    <string name="sell_success">Sell Success: %1$s</string>
+    <string name="you_did_not_own">You Did Not Own: %1$s</string>
+    <string name="insufficient_fund">Failed, Insufficient fund by: %1$s</string>
+    <string name="insufficient_amount">Failed, Insufficient amount by: %1$s</string>
+
+    <!-- Activity title -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="trade_title">Trade</string>
+    <string name="wallet_title">Wallet</string>
+    <string name="portfolio_title">Portfolio</string>
+
+    <!--    crypto data model-->
+    <string name="crypto_name">Name</string>
+    <string name="crypto_price">Price</string>
+    <string name="crypto_volume">Balance</string>
+    <string name="crypto_balance">Balance</string>
+    <string name="cannot_trade_usd">You cannot trade USD!</string>
+
+
+    <!--    Firebase authentication-->
+    <string name="login_success">Logged in as %1$s</string>
+    <string name="login_failure_generic">Failed to login: %1$s</string>
+    <string name="login_failure_wrong_credentials">Please check your username &amp; password and try again!</string>
+    <string name="login_failure_doesnt_exist">We can\'t find an account with this email. Try signing up for an account here!</string>
+    <string name="signup_success">Registered successfully as %1$s</string>
+    <string name="signup_failure_generic">Failed to register: %1$s</string>
+    <string name="signup_failure_weak_password">Your password does not meet minimum requirements! Must be at least 6 characters long.</string>
+    <string name="signup_failure_already_exists">An account already exists for this email! Try logging in to an account here!</string>
+    <string name="signup_failure_invalid_format">You must supply a valid formatted email!</string>
+    <string name="password_has_not_matched">Password has not matched!</string>
+    <string name="title_activity_crypto_list">CryptoList</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="insufficient_balance">Failed, Insufficient amount by: %1$s</string>
+</resources>
